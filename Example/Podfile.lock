@@ -1,0 +1,16 @@
+PODS:
+  - EZReusable (0.1.0)
+
+DEPENDENCIES:
+  - EZReusable (from `../`)
+
+EXTERNAL SOURCES:
+  EZReusable:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EZReusable: c6da80de218b0607c460073989830187b605c960
+
+PODFILE CHECKSUM: 9e45ec94f00cab90878d27a8eef10aca242b96a0
+
+COCOAPODS: 1.2.1

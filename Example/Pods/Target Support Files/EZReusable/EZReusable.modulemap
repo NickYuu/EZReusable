@@ -1,0 +1,6 @@
+framework module EZReusable {
+  umbrella header "EZReusable-umbrella.h"
+
+  export *
+  module * { export * }
+}

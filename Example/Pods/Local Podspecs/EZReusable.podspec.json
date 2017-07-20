@@ -1,0 +1,22 @@
+{
+  "name": "EZReusable",
+  "version": "0.1.0",
+  "summary": "A short description of EZReusable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/NickYuu/EZReusable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NickYuu": "s3310304067@gms.nutc.edu.tw"
+  },
+  "source": {
+    "git": "https://github.com/NickYuu/EZReusable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EZReusable/Classes/**/*"
+}
