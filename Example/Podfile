@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EZReusable_Example' do
+  pod 'EZReusable', :path => '../'
+
+  target 'EZReusable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
