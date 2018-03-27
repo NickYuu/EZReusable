@@ -20,6 +20,14 @@ it, simply add the following line to your Podfile:
 pod "EZReusable"
 ```
 
+## Use
+```swift 
+func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        let cell = tableView.dequeueReusableCell(for: indexPath, type: MyCell.self)
+        return cell
+    }
+```
+
 ## Author
 
 NickYuu, s3310304067@gms.nutc.edu.tw
